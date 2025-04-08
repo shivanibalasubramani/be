@@ -1,0 +1,32 @@
+{
+    "murder": {
+        "ipc_code": "IPC 302",
+        "description": "Punishment for murder",
+        "punishment": "Life imprisonment or death penalty",
+        "next_steps": "1. Immediately dial the police emergency helpline number 100 to report the crime. \n2. If you're a witness, ensure your safety and try to remember key details about the incident. \n3. Go to the nearest police station to file a formal report and cooperate with the investigation. \n4. If you are a victim’s family member, ensure that you contact legal support for guidance on your rights and the legal process."
+    },
+    "theft": {
+        "ipc_code": "IPC 378",
+        "description": "Whoever commits theft shall be punished with imprisonment or fine.",
+        "punishment": "Up to 3 years of imprisonment or fine, or both.",
+        "next_steps": "1. If you are a victim of theft, immediately report the incident to the nearest police station. \n2. Provide detailed information about the stolen property, suspects, and any other witnesses. \n3. You can also file an online FIR through the official website of your state's police department. \n4. If you have any CCTV footage or other evidence, make sure to provide it to the authorities to help in the investigation."
+    },
+    "assault": {
+        "ipc_code": "IPC 354",
+        "description": "Assault or use of criminal force to outrage a woman's modesty.",
+        "punishment": "1 to 5 years imprisonment + fine.",
+        "next_steps": "1. If you are a victim of assault, immediately call the women’s helpline (1091) or dial the police emergency number 100. \n2. Seek medical attention if needed and preserve any physical evidence of the assault (clothing, injuries, etc.). \n3. File a police complaint at the nearest police station or online. \n4. You can also reach out to NGOs or women’s organizations that can provide support and legal aid."
+    },
+    "cybercrime": {
+        "ipc_code": "IT Act 66A",
+        "description": "Sending offensive messages through communication services.",
+        "punishment": "Up to 3 years imprisonment + fine.",
+        "next_steps": "1. If you are a victim of cybercrime, immediately report it to the Cyber Crime Cell at www.cybercrime.gov.in. \n2. Preserve all evidence, such as screenshots of offensive messages, emails, or social media posts, as this will be crucial for the investigation. \n3. If the crime involves financial loss, inform your bank and any relevant service providers to block accounts or prevent further loss. \n4. Avoid responding to the offender and seek legal advice to understand your options for pursuing the case."
+    },
+    "domestic violence": {
+        "ipc_code": "Protection of Women from Domestic Violence Act, 2005",
+        "description": "Covers physical, emotional, sexual, and economic abuse in domestic relationships.",
+        "punishment": "Protection orders, residence orders, and imprisonment for non-compliance.",
+        "next_steps": "1. If you are experiencing domestic violence, call 181 (Women Helpline) immediately to seek emergency help. \n2. Visit the nearest police station to file a complaint and request a Protection Order. \n3. You can also file for a Residence Order, which ensures you are not forced to leave your home due to domestic abuse. \n4. Seek support from domestic violence shelters, counselors, and NGOs for further assistance. \n5. Reach out to legal professionals who specialize in domestic violence cases to protect your rights and secure a safe environment."
+    }
+}
