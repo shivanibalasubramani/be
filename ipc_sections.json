@@ -1,0 +1,32 @@
+{
+    "murder": {
+        "ipc_code": "IPC 302",
+        "description": "Punishment for murder",
+        "punishment": "Life imprisonment or death penalty",
+        "next_steps": "Report immediately to the police emergency helpline 100 or visit the nearest police station."
+    },
+    "theft": {
+        "ipc_code": "IPC 378",
+        "description": "Whoever commits theft shall be punished with imprisonment or fine.",
+        "punishment": "Up to 3 years of imprisonment or fine, or both.",
+        "next_steps": "Report to the nearest police station or file an FIR online."
+    },
+    "assault": {
+        "ipc_code": "IPC 354",
+        "description": "Assault or use of criminal force to outrage a woman's modesty.",
+        "punishment": "1 to 5 years imprisonment + fine.",
+        "next_steps": "Approach women's helpline (1091) or file a police complaint immediately."
+    },
+    "cybercrime": {
+        "ipc_code": "IT Act 66A",
+        "description": "Sending offensive messages through communication services.",
+        "punishment": "Up to 3 years imprisonment + fine.",
+        "next_steps": "Report to Cyber Crime Cell (www.cybercrime.gov.in) and preserve digital evidence."
+    },
+    "domestic violence": {
+        "ipc_code": "Protection of Women from Domestic Violence Act, 2005",
+        "description": "Covers physical, emotional, sexual, and economic abuse in domestic relationships.",
+        "punishment": "Protection orders, residence orders, and imprisonment for non-compliance.",
+        "next_steps": "Call 181 (Women Helpline) or visit the nearest police station."
+    }
+}
